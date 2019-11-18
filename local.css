@@ -1,0 +1,15 @@
+
+    body {
+        font-family: "Glacial Indifference", sans-serif;
+    }
+
+    .H1 {
+        font-size: 3rem;
+        text-align: center;
+    }
+
+    .container {
+        width: 800px;
+        margin-left: calc((100% - 800px) / 2);
+        margin-right: calc((100% - 800px) / 2);
+    }
